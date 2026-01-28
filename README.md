@@ -10,7 +10,6 @@
 项目文件结构
 ```
 MICCProject1/
-ugv_edge_system/
 ├── CMakeLists.txt
 ├── package.xml
 ├── setup.py
